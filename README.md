@@ -140,7 +140,7 @@ print(predict_health_grade(sugar=12, fat=50, sodium=600))
 
 ## 👤 ผู้จัดทำ (Author)
 
-**[ชื่อของคุณ]**
+**Dechatorn Laikhain**
 
 * **Role:** Data Scientist / Machine Learning Engineer
 * **Contact:** www.linkedin.com/in/dechatorn-laikhain-0b89953a2
